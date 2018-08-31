@@ -1,0 +1,25 @@
+{
+  "name": "random-string-module",
+  "version": "0.10.0",
+  "description": "a module that returns alphanumemeric string",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorigt-batsaikhan/random-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "crypto",
+    "characters"
+  ],
+  "author": "zorigt batsaikhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zorigt-batsaikhan/random-string-module/issues"
+  },
+  "homepage": "https://github.com/zorigt-batsaikhan/random-string-module#readme"
+}
