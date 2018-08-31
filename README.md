@@ -1,15 +1,15 @@
 # random-string-module
 A module theh returns alohanumeric string.
 
-##How to install
+## How to install
 @npm install random-string-module --save
 
-##how to use
+## how to use
 var random = require('random-string-module');
 ```javascript
-##method
+## method
 
-#randomchar
+# randomchar
 this method takes in a integer value which specifies the length of the returned string.
 
 console.log(random.RandomChar(10))
